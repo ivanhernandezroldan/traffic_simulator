@@ -1,5 +1,11 @@
 # traffic_simulator
 
+This Java project, a traffic simulator implemented in two parts, stands out for its robust approach and the application of advanced programming concepts. 
+
+**Authors:** Notkero Gómez Fernández and Iván Hernández Roldán.
+
+Below, the key aspects and theoretical concepts implemented in both parts of the project are summarized:
+
 ## Part 1: Traffic Simulator 
 
 ### <u>Implemented Concepts:</u>
