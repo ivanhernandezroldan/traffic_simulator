@@ -1,8 +1,8 @@
 # traffic_simulator
 
-## Part 1: Traffic Simulator - Assignment 1
+## Part 1: Traffic Simulator 
 
-### Implemented Concepts:
+### <u>Implemented Concepts:</u>
 
 #### Object-Oriented Design:
 
@@ -19,14 +19,9 @@
 - Analysis and creation of JSON data to represent simulator input and output.
 - Utilization of libraries for efficient JSON structure handling.
 
-#### Programming Best Practices:
-
-- Adherence to coding standards and best practices.
-- Compliance with the suggested package and class structure.
-
 ## Part 2: Graphical User Interface (GUI) - MVC Development
 
-### Implemented Concepts:
+### <u>Implemented Concepts:</u>
 
 #### Model-View-Controller (MVC) Pattern:
 
@@ -38,11 +33,6 @@
 - Integration of events and observers to notify UI changes in response to simulator changes.
 - Dynamic updating of the graphical interface based on simulator changes.
 
-#### Robust Graphic Interface:
-
-- Design of an intuitive and efficient graphical interface using Swing components.
-- Implementation of an interactive control panel to manage the simulation.
-
 #### Thread Execution Management:
 
 - Use of threads to prevent UI blocking during simulation execution.
@@ -52,6 +42,11 @@
 
 - Implementation of exception handling to ensure simulator stability and robustness.
 - Elegant notification of errors.
+
+#### Graphic Interface Visually Appealing:
+
+- Design of an intuitive and efficient graphical interface using Swing components.
+- Implementation of an interactive control panel to manage the simulation.
 
 #### Graphical Representation of Road Map:
 
